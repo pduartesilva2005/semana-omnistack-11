@@ -43,7 +43,7 @@ O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribui�
 
 Antes de começar é necessário ter o Node.js e Git instalado para conseguir rodar este projeto.
 
-- 1 - Clone esse repositório: `git clone https://github.com/pedroduarte2005/semana-omnistack-11.git`;
+- 1 - Clone esse repositório: `git clone https://github.com/pduartesilva2005/semana-omnistack-11.git`;
 - 2 - Entre na pasta do projeto: `cd semana-omnistack-11`;
 - 3 - Rode o back-end da aplicação
   - Entrar na pasta: `cd backend`;
